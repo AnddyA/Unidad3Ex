@@ -1,0 +1,50 @@
+{
+    "list.MyLinkedList": {
+        "head": {
+            "info": {
+                "@class": "model.Objetos",
+                "id": 1,
+                "X": 4,
+                "Y": 5,
+                "nombre": "Carro"
+            },
+            "next": {
+                "info": {
+                    "@class": "model.Objetos",
+                    "id": 2,
+                    "X": 5,
+                    "Y": 8,
+                    "nombre": "Avion"
+                },
+                "next": {
+                    "info": {
+                        "@class": "model.Objetos",
+                        "id": 3,
+                        "X": 7,
+                        "Y": 5,
+                        "nombre": "Navio"
+                    },
+                    "next": {
+                        "info": {
+                            "@class": "model.Objetos",
+                            "id": 4,
+                            "X": 9,
+                            "Y": 10,
+                            "nombre": "ObjetosNoIdentificados"
+                        },
+                        "next": {
+                            "info": {
+                                "@class": "model.Objetos",
+                                "id": 5,
+                                "X": 1,
+                                "Y": 2,
+                                "nombre": "Estacion"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "length": 5
+    }
+}
